@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.1](https://github.com/HoppenR/storm-mode.nvim/compare/v1.2.0...v1.2.1) (2024-06-25)
+
+
+### Bug Fixes
+
+* buffer testing ([425a3a3](https://github.com/HoppenR/storm-mode.nvim/commit/425a3a394cb56c5dd18f5129498d5c4cca25894d))
+
 ## [1.2.0](https://github.com/HoppenR/storm-mode.nvim/compare/v1.1.0...v1.2.0) (2024-06-23)
 
 
